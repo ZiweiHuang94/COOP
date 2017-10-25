@@ -1,0 +1,4 @@
+int main(String[] argv){
+    int i = (int) argv[0];
+    System.out.println(i);
+        }

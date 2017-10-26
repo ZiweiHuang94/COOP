@@ -1,3 +1,4 @@
+/*
 public class main {
     public static void main(String[] argv){
         Seq seq = new Seq(4);
@@ -8,3 +9,4 @@ public class main {
         System.out.print(seqSum.getSum());
     }
 }
+*/
